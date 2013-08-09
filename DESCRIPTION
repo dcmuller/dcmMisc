@@ -1,0 +1,12 @@
+Package: dcmMisc
+Title: 
+Description: 
+Version: 0.1
+Author: David C Muller <davidmull@gmail.com>
+Maintainer: David C Muller <davidmull@gmail.com>
+Depends:
+    R (>= 3.0.1)
+License: GPL (>= 2)
+LazyData: true
+Collate:
+    'dcmMisc-package.r'
