@@ -10,3 +10,4 @@ License: GPL (>= 2)
 LazyData: true
 Collate:
     'dcmMisc-package.r'
+    'rename.r'
