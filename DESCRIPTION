@@ -1,13 +1,13 @@
 Package: dcmMisc
-Title: 
-Description: 
+Title: David's miscelaneous functions
+Description: package in which to keep functions that I use in multiple projects
 Version: 0.1
 Author: David C Muller <davidmull@gmail.com>
 Maintainer: David C Muller <davidmull@gmail.com>
 Depends:
     R (>= 3.0.1)
+Imports:
+    glmnet,
+    rms
 License: GPL (>= 2)
 LazyData: true
-Collate:
-    'dcmMisc-package.r'
-    'rename.r'
