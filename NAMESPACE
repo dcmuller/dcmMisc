@@ -1,1 +1,5 @@
+export(bsoptim)
+export(lassofit)
 export(rename)
+import(glmnet)
+import(rms)

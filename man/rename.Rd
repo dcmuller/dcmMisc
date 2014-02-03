@@ -2,7 +2,7 @@
 \alias{rename}
 \title{Rename columns of a data frame}
 \usage{
-  rename(df, oldnames, newnames)
+rename(df, oldnames, newnames)
 }
 \arguments{
   \item{df}{a \code{data.frame} containing variables to be
@@ -15,10 +15,9 @@
   columns listed in \code{oldnames}}
 }
 \value{
-  the \code{data.frame} df, with columns renamed
+the \code{data.frame} df, with columns renamed
 }
 \description{
-  \code{rename} renames one or more columns of a data
-  frame.
+\code{rename} renames one or more columns of a data frame.
 }
 

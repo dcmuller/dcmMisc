@@ -4,6 +4,6 @@
 \alias{dcmMisc-package}
 \title{David Muller's miscellaneous R functions}
 \description{
-  Functions that are useful across a number of projects.
+Functions that are useful across a number of projects.
 }
 
